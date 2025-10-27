@@ -59,11 +59,11 @@ The circuit is complete. The sound that began as a free particle (token) has ent
 
 | Phase               | Function           | Fractal Analog    | Linguistic Role               |
 | :------------------ | :----------------- | :---------------- | :---------------------------- |
-| **O (Token)**       | Entropic sound     | θ′ (data)         | Phoneme / raw word            |
-| **)-( (Root)**      | Energetic kernel   | θ (energy)        | Stem / invariant              |
-| **– (Infinitive)**  | Stable function    | Σ (signal)        | Lemma / neutral base          |
-| **→ (Conjugation)** | Adaptive curvature | h(t) (value/time) | Inflected / temporalized form |
-| **O (Possessive)**  | Closure, belonging | ΔS (meaning)      | Ownership / relation          |
+| **O Token**       | Entropic sound     | θ′ (data)         | Phoneme / raw word            |
+| **) Root**      | Energetic kernel   | θ (energy)        | Stem / invariant              |
+| **– Infinitive**  | Stable function    | Σ (signal)        | Lemma / neutral base          |
+| **( Conjugation** | Adaptive curvature | h(t) (value/time) | Inflected / temporalized form |
+| **O Possessive**  | Closure, belonging | ΔS (meaning)      | Ownership / relation          |
 
 ---
 
